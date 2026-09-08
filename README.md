@@ -24,15 +24,15 @@ Communicate meaningful business insights using visualizations.
 Visualizations Included
 
 The notebook contains a complete visualization portfolio including:
-1. Histograms
+**1. Histograms**
 Used to understand the distribution of numerical variables such as:
 Orders
 Revenue
 
-2. Count Plot
+**2. Count Plot**
 Used to examine the number of records across categorical groups such as cities.
 
-3. Bar Charts
+**3. Bar Charts**
 Used to compare:
 Revenue by city
 Orders by cuisine
@@ -41,57 +41,44 @@ Revenue by weather condition
 Orders by order channel
 Revenue by order channel
 
-4. Line Plots
+**4. Line Plots**
 Used to study:
 Orders over time
 Revenue over time
 Monthly order trends
 Monthly revenue trends
 
-5. Box Plots
+**5. Box Plots**
 Used to compare revenue distributions and identify potential outliers across cities.
 
-6. Violin Plot
+**6. Violin Plot**
 Used to understand the distribution of delivery times across cities.
 
-7. Scatter Plots
+**7. Scatter Plots**
 Used to investigate relationships between:
 Marketing Spend and Revenue
 Delivery Time and Customer Rating
 Regression lines are also used where appropriate to make the overall relationship easier to observe.
 
-8. Correlation Heatmap
+**8. Correlation Heatmap**
 Used to visualize relationships between numerical variables and identify strong positive or negative correlations.
 
 **Analysis Workflow**
 
 The notebook follows this workflow:
-
-Load Dataset
-      ↓
-Inspect Dataset
-      ↓
-Check Data Types
-      ↓
-Check Missing Values
-      ↓
-Check Duplicates
-      ↓
-Prepare Date Column
-      ↓
-Explore Distributions
-      ↓
-Analyze Time Trends
-      ↓
-Compare Categories
-      ↓
-Analyze Relationships
-      ↓
-Study Correlations
-      ↓
-Interpret Visualizations
-      ↓
-Summarize Business Findings
+1. Load Dataset
+2. Inspect Dataset
+3. Check Data Types
+4. Check Missing Values
+5. Check Duplicates
+6. Prepare Date Column
+7. Explore Distributions
+8. Analyze Time Trends
+9. Compare Categories
+10. Analyze Relationships
+11. Study Correlations
+12. Interpret Visualizations
+13. Summarize Business Findings
 
 **Tools and Libraries**
 The project uses:
